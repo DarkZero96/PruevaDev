@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    Layout = "";
+}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#4285f4">
+    <title>@ViewData["Title"] - Gestion_Expedientes</title>
+    <link href="~/css/login.css" rel="stylesheet" />
+</head>
+<!-- Login -->
+<body class="fondo d-flex justify-content-center align-items-center vh-100">
+    <form >
+    <div class="bg-white p-5 rounded-5 text-secondary shadow"  style="width: 25rem">
+        <div class="text-center fs-2 fw-bold">Inicio de sesion</div>
+        <div class="input-group mt-4">
+                <div class="input-group-text bg-primary">
+                    <i class="fa-solid fa-user" style="color: #ffffff;"></i>
+            </div>
+            <input class="form-control bg-light" type="text" placeholder="Usuario" />
+        </div>
+        <div class="input-group mt-1">
+                <div class="input-group-text bg-primary">
+                    <i class="fa-solid fa-lock" style="color: #ffffff;" ></i>
+            </div>
+            <input class="form-control bg-light" type="password" placeholder="Contraseña" />
+        </div>
+        <button class="btn btn-primary text-white w-100 mt-4 fw-semibold shadow-sm">Entrar</button>
+           
+       <!-- Pie de pagina -->
+        <footer class="border-top footer text-muted">
+            <div class="container" style="font-size: 0.9rem">
+                &copy; 2023 - Gestion_Expedientes - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacidad</a>
+            </div>
+        </footer>
+
+     </div>
+       </form>
+   
+</body>
+
+
+
+
+
+</html>
+
+
+

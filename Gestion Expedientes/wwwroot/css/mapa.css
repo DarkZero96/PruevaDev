@@ -1,0 +1,74 @@
+﻿.a, .e, .f, .g, .m, .n, .q, .r, .s, .t {
+    fill: none;
+}
+
+.b, .h, .o, .p {
+    fill: #c8eafb;
+}
+
+.c {
+    fill: #f6e1b9;
+}
+
+.d, .k {
+    fill: #fefee9;
+}
+
+.d, .f, .n {
+    stroke: #646464;
+}
+
+.d, .m, .n {
+    stroke-width: 0.25px;
+}
+
+.e, .g, .h, .m, .o, .p {
+    stroke: #0c78ac;
+}
+
+.f, .g, .h, .n, .o {
+    stroke-linecap: round;
+}
+
+.f, .g, .h, .n, .o, .r, .s, .t {
+    stroke-linejoin: round;
+}
+
+.g, .h, .q, .r, .s {
+    stroke-width: 0.4px;
+}
+
+.i {
+    clip-path: url(#a);
+}
+
+.j {
+    fill: #e0e0e0;
+}
+
+.l {
+    fill: #c12838;
+}
+
+.o, .p {
+    stroke-width: 0.1586px;
+}
+
+.q, .r, .s, .t {
+    stroke: #646666;
+}
+
+.s {
+    stroke-dasharray: 2.1412 2.1412;
+}
+
+.t {
+    stroke-width: 0.8782px;
+}
+
+svg path:hover {
+fill: red;
+transition: 0.6s;
+cursor: pointer;
+
+}

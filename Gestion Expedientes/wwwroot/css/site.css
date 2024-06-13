@@ -1,0 +1,16 @@
+a.navbar-brand:hover {
+    background-color: transparent;
+}
+a:hover {
+    background-color: #2f48ff;
+    border-radius: 8px;
+}
+
+a.nav-link {
+    color: #ffffff;
+}
+
+a.dropdown-item:hover {
+    background-color: #e3e3e3;
+    border-radius: 8px;
+}

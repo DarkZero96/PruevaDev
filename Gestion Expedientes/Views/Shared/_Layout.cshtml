@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["user"] = "Jose";
+}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#4285f4">
+    <title>@ViewData["Title"] - Gestion de Expedientes</title>
+    <link href="~/css/site.css" rel="stylesheet" />
+</head>
+<body >
+    <nav class="navbar navbar-dark bg-primary navbar-expand-lg" >
+        <div class="container-fluid">
+            <a class="navbar-brand"> Gestion de Expedientes</a>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample10" aria-controls="navbarsExample10" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- Nav Dasboard -->
+            <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample10">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                     <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Dashboard"><i class="fa-solid fa-chart-pie"></i> Dashboard</a>
+                    </li>
+                    <!-- nav de Captura de informacion -->
+                    <li class="nav-item dropdown ">
+                        <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                            <i class="fa-solid fa-pen-to-square"></i> Captura de Informacion
+                        </a>
+                        <ul class="dropdown-menu ">
+                            <li><a class="dropdown-item" href="#">Persona</a></li>
+                            <li><a class="dropdown-item" href="#">Expedientes</a></li>
+                        </ul>
+                    </li>
+                    <!-- Nav de Usuarios -->
+                    <li class="nav-item dropdown ">
+                        <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                            <i class="fa-solid fa-user"></i> @ViewData["user"]
+                        </a> 
+                        <ul class="dropdown-menu ">
+                            <li><a class="dropdown-item" href="#">Cambiar Contraseña</a></li>
+                            <li>
+                                <a class="dropdown-item" asp-area="" asp-controller="Home" asp-action="Index">Cerrar Sesion</a>
+                            </li>
+                        </ul>
+                    </li>
+
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Carga de todas las vistas -->
+        <div class="col py-3 ">
+            <div class="container">
+                <main role="main" class="pb-3">
+                    @RenderBody()
+                </main>
+            </div>
+        <!-- Pie de pagina -->
+            <footer class="border-top footer text-muted">
+                <div class="container" style="font-size: 0.9rem">
+                    &copy; 2023 - Gestion_Expedientes - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacidad</a>
+                </div>
+            </footer>
+        </div>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

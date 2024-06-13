@@ -1,0 +1,31 @@
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\bin\Debug\net6.0\appsettings.json
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\bin\Debug\net6.0\Gestion Expedientes.staticwebassets.runtime.json
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\bin\Debug\net6.0\Gestion Expedientes.exe
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\bin\Debug\net6.0\Gestion Expedientes.deps.json
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\bin\Debug\net6.0\Gestion Expedientes.runtimeconfig.json
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\bin\Debug\net6.0\Gestion Expedientes.dll
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\bin\Debug\net6.0\Gestion Expedientes.pdb
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\Gestion Expedientes.csproj.AssemblyReference.cache
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\Gestion Expedientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\Gestion Expedientes.AssemblyInfoInputs.cache
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\Gestion Expedientes.AssemblyInfo.cs
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\Gestion Expedientes.csproj.CoreCompileInputs.cache
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\Gestion Expedientes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\Gestion Expedientes.RazorAssemblyInfo.cache
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\Gestion Expedientes.RazorAssemblyInfo.cs
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\staticwebassets\msbuild.Gestion Expedientes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\staticwebassets\msbuild.build.Gestion Expedientes.props
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gestion Expedientes.props
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gestion Expedientes.props
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\scopedcss\bundle\Gestion Expedientes.styles.css
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\scopedcss\projectbundle\Gestion Expedientes.bundle.scp.css
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\Gestion Expedientes.dll
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\refint\Gestion Expedientes.dll
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\Gestion Expedientes.pdb
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\Gestion Expedientes.genruntimeconfig.cache
+C:\Users\DEVELOPER\Documents\PruebaDevelsystems\PruevaDev\Gestion Expedientes\obj\Debug\net6.0\ref\Gestion Expedientes.dll

@@ -1,0 +1,11 @@
+
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 900, 'GRAD' 0, 'opsz' 24
+}
+
+.fondo {
+    background: #0004ff;
+    background: -webkit-radial-gradient(circle, #0004ff 0%, #3aa7f0 100%);
+    background: radial-gradient(circle, #0004ff 0%, #3aa7f0 100%);
+}
+
